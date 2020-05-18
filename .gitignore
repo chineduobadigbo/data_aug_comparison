@@ -1,0 +1,8 @@
+**/__pycache__/**
+**/vae_imgs/**
+**/gan_imgs/**
+**/aug_imgs/**
+*.h5
+*.pyc
+**/plots/**
+loggings.log

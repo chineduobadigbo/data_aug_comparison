@@ -1,0 +1,218 @@
+{
+    "1": {
+        "samples": 200,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": false
+    },
+    "2": {
+        "samples": 400,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": false
+    },
+    "3": {
+        "samples": 800,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": false
+    },
+    "4": {
+        "samples": 1600,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": false
+    },
+    "5": {
+        "samples": 3200,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": false
+    },
+    "6": {
+        "samples": 6400,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": false
+    },
+    "7": {
+        "samples": 12800,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": false
+    },
+    "8": {
+        "samples": 25600,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": false
+    },
+    "9": {
+        "samples": 51200,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": false
+    },
+    "10": {
+        "samples": 400,
+        "latent_dim": 10,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": false
+    },
+    "11": {
+        "samples": 400,
+        "latent_dim": 5,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": false
+    },
+    "12": {
+        "samples": 400,
+        "latent_dim": 2,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": false
+    },
+    "13": {
+        "samples": 200,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": true
+    },
+    "14": {
+        "samples": 400,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": true
+    },
+    "15": {
+        "samples": 800,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": true
+    },
+    "16": {
+        "samples": 1600,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": true
+    },
+    "17": {
+        "samples": 3200,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": true
+    },
+    "18": {
+        "samples": 6400,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": true
+    },
+    "19": {
+        "samples": 12800,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": true
+    },
+    "20": {
+        "samples": 25600,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": true
+    },
+    "21": {
+        "samples": 51200,
+        "latent_dim": 50,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": true
+    },
+    "22": {
+        "samples": 400,
+        "latent_dim": 10,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": true
+    },
+    "23": {
+        "samples": 400,
+        "latent_dim": 5,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": true
+    },
+    "24": {
+        "samples": 400,
+        "latent_dim": 2,
+        "num_new_samples": 1000,
+        "batch_size": 100,
+        "num_epochs": 100,
+        "num_epochs_cl": 100,
+        "fashion": true
+    }
+}
